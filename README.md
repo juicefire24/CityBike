@@ -1,4 +1,4 @@
-Analysis based on 6/2016 DATA.
+Analysis based on 6/2013 DATA.
 
 1.  During the month of June,2013 there were a total of 577,703 trips taken.  During that period the most commmn age of the users riding were born in the 1980's and they tend to take longer rides.
 
